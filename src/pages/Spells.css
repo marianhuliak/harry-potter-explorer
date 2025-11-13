@@ -1,0 +1,17 @@
+.spells-page {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.spells-page h1 {
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+  color: #2c3e50;
+}
+
+.spells-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
