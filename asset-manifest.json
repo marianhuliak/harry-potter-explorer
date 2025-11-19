@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harry-potter-explorer/static/css/main.648cc78c.css",
+    "main.js": "/harry-potter-explorer/static/js/main.b63247ed.js",
+    "static/js/453.e7cde609.chunk.js": "/harry-potter-explorer/static/js/453.e7cde609.chunk.js",
+    "index.html": "/harry-potter-explorer/index.html",
+    "main.648cc78c.css.map": "/harry-potter-explorer/static/css/main.648cc78c.css.map",
+    "main.b63247ed.js.map": "/harry-potter-explorer/static/js/main.b63247ed.js.map",
+    "453.e7cde609.chunk.js.map": "/harry-potter-explorer/static/js/453.e7cde609.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.648cc78c.css",
+    "static/js/main.b63247ed.js"
+  ]
+}
